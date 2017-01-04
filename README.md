@@ -22,5 +22,5 @@ config.create(); // create the config
 // config.addDefault("path", "to"); // manually set defaults or..
 config.options().copyDefaults(true);
 config.loadFromJar(); // make the file in your project and it'll load it.
-config.save();
+config.save(); // save the config
 ```
