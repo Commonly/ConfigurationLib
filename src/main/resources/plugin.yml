@@ -1,0 +1,4 @@
+name: ConfigLib
+version: 0.0.1
+main: me.jdog.configurationlib.ConfigLib
+author: Muricans
